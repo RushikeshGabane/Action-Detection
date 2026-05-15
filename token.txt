@@ -1,0 +1,7 @@
+Bearer RjBEAiBrVSgEwjwH1HodDm677wI5Md9VTQAufhb5gLRYPM5DCAIgdFtQjS1DBrQ0DN6RaBgOz_txkq0ZmOTno4nIB1sXxsx7InUiOjUzMDksImUiOiIyMDI2LTEyLTMwVDE4OjMwOjAwLjAwMCswMDowMCJ9
+
+
+
+
+DEVICE_ID = "861327081767498"
+ECOCOSMO_API = f"https://status.ecocosmogps.com/rapportsoft.php?imei={DEVICE_ID}"

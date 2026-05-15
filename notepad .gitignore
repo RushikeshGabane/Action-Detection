@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Models
+*.pth
+*.pt
+*.onnx
+
+# Tokens
+token.txt
+
+# Results
+container_results/
+
+# Images
+*.jpg
+*.png
+
+# VS Code
+.vscode/
+
+# Env
+venv/
+env/
+
+# Logs
+*.log
